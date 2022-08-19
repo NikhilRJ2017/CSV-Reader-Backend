@@ -10,10 +10,10 @@ Link to frontend repo: https://github.com/NikhilRJ2017/CSV-Reader-Frontend
 Before installing npm modules and run the project, create '.env' file to the project with following entries: 
 
 	-MONGO_DB_URI="add value"
-  -CLOUDINARY_NAME="add value"
-  -CLOUDINARY_API_KEY="add value"
-  -CLOUDINARY_API_SECRET="add value"
-  -CORS_ORIGIN="add value"
+  	-CLOUDINARY_NAME="add value"
+  	-CLOUDINARY_API_KEY="add value"
+  	-CLOUDINARY_API_SECRET="add value"
+ 	-CORS_ORIGIN="add value"
 	-PORT="add value" (optional, default is 5000)
 
 
